@@ -23,8 +23,6 @@ Base de données SQL accessible sur serveur ou en local.
 
 # Livrables attendus
 - Un support de présentation : Contexte, présentation de l'équipe et des outils utilisés, difficultés rencontrées ...
-- Tableau de bord : visualisations des KPI et interprétations (**Power BI**)
-
-- 
+- Tableau de bord : visualisations des KPI et interprétations (**Power BI**) 
 
 
