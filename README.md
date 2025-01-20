@@ -18,3 +18,8 @@ Des KPI nous étaient imposées pour chaque division :
 
 - **Ressources humaines** :
 
+# Livrables attendus
+- Un support de présentation : Contexte, présentation de l'équipe et des outils utilisés, difficultés rencontrées ...
+- Tableau de bord : visualisations des KPI et interprétations (**Power BI**)
+
+
